@@ -1,0 +1,25 @@
+/* Write CSS here */
+.bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/stopwatch-lg-bg.png');
+  background-size: cover;
+  height: 100vh;
+}
+.timercontrol-container {
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 250px;
+  width: 250px;
+  padding: 15px;
+}
+.timer-container {
+  display: flex;
+}
+.timer-image {
+  align-self: center;
+  height: 25px;
+}
+.button-container {
+  display: flex;
+}
